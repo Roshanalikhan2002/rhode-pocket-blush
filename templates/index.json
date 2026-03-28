@@ -1,0 +1,11 @@
+{
+  "sections": {
+    "main": {
+      "type": "rhode-product",
+      "settings": {}
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
